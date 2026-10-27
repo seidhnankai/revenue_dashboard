@@ -1,0 +1,6 @@
+{
+  "name": "Oracle 11g Datawarehouse Analytics Console",
+  "description": "Real-time enterprise visualization, Superset-style analytics, drag-and-drop report builder, role-based access control, and automated threshold alerts for Oracle 11g Datawarehouses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
